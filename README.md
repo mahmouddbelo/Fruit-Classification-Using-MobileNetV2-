@@ -15,14 +15,14 @@ This project is a deep learning-powered web application for classifying fruit im
 
 ## Dataset
 
-The dataset used for this project contains images of various fruits, preprocessed for training and testing the model.  
+The dataset used for this project contains images of various fruits, preprocessed for training and testing the model.
 
-[Download the Fruit Dataset](INSERT_YOUR_DATASET_LINK_HERE)
+[Download the Fruit Dataset](https://www.kaggle.com/datasets/mahmoudbelooo/fruit-image-dataset-10-classes)
 
 ### Details:
-- **Categories**: Apples, Bananas, Strawberries, and more.
+- **Categories**: Apples, Bananas, Grapes, Strawberries, and more (10 total classes).
 - **Format**: JPEG/PNG images.
-- **Source**: Specify the dataset source, such as Kaggle or custom collection.
+- **Source**: Kaggle dataset uploaded by the author.
 
 ---
 
@@ -30,7 +30,7 @@ The dataset used for this project contains images of various fruits, preprocesse
 
 The project has been deployed using **Streamlit Cloud**. You can access the live application here:  
 
-👉 [Fruit Classification App]((https://www.kaggle.com/datasets/mahmoudbelooo/fruit-image-dataset-10-classes))
+👉 [Fruit Classification App](INSERT_DEPLOYED_APP_LINK_HERE)
 
 ---
 
@@ -47,7 +47,3 @@ Follow these steps to set up and run the project locally:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/mahmouddbelo/Fruit-Classification-Using-MobileNetV2-.git
-   pip install -r requirements.txt
-   streamlit run app.py
-
-
